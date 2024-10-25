@@ -46,8 +46,9 @@ The "Restoring the Lifeblood of Maji Ndogo" project highlights the significance 
 # Relationship tables
 ![image alt text](https://github.com/AimadSADOUK/Restoring-the-Lifeblood-of-Maji-Ndogo/blob/main/4-tables_relationships.PNG)
 
+# EXPLORE AI
 ![image alt text](https://github.com/AimadSADOUK/Restoring-the-Lifeblood-of-Maji-Ndogo/blob/main/5-EXPLORE%20AI%20ACADEMY.PNG)
 
-
-![image alt text](https://github.com/AimadSADOUK/Restoring-the-Lifeblood-of-Maji-Ndogo/blob/main/4-tables_relationships.PNG)
+# Maji Ndogo Area
+![image alt text](https://github.com/AimadSADOUK/Restoring-the-Lifeblood-of-Maji-Ndogo/blob/main/6-Maji%20Ndogo.PNG)
 
