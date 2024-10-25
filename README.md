@@ -2,6 +2,7 @@
 
 **Author:** Aimad SADOUK  
 **LinkedIn:** @Aimad SADOUK
+© ExploreAI Academy
 
 ## Overview
 
