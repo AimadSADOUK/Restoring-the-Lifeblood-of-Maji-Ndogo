@@ -1,7 +1,7 @@
 # Restoring the Lifeblood of Maji Ndogo
 
 **Author:** Aimad SADOUK  
-**LinkedIn:** [Aimad SADOUK](https://www.linkedin.com/in/aimad-sadouk)
+**LinkedIn:** @Aimad SADOUK
 
 ## Overview
 
@@ -42,3 +42,12 @@ The "Restoring the Lifeblood of Maji Ndogo" project highlights the significance 
 - Explore advanced data visualization techniques to better communicate findings.
 - Collaborate with stakeholders for implementing recommended strategies.
 - Continue to monitor and analyze water resource management for ongoing improvements.
+
+# Relationship tables
+![image alt text](https://github.com/AimadSADOUK/Restoring-the-Lifeblood-of-Maji-Ndogo/blob/main/4-tables_relationships.PNG)
+
+![image alt text](https://github.com/AimadSADOUK/Restoring-the-Lifeblood-of-Maji-Ndogo/blob/main/5-EXPLORE%20AI%20ACADEMY.PNG)
+
+
+![image alt text](https://github.com/AimadSADOUK/Restoring-the-Lifeblood-of-Maji-Ndogo/blob/main/4-tables_relationships.PNG)
+
