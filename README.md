@@ -45,6 +45,14 @@ The "Restoring the Lifeblood of Maji Ndogo" project highlights the significance 
 - Collaborate with stakeholders for implementing recommended strategies.
 - Continue to monitor and analyze water resource management for ongoing improvements.
 
+### Contact
+
+Feel free to reach out if you have any questions or if you're interested in collaboration:
+
+**Email: sadouk.aimad@gmail.com**
+
+Thank you for taking the time to read my report; I hope it provides valuable insights and fosters thoughtful discussions.
+
 # Relationship tables
 ![image alt text](https://github.com/AimadSADOUK/Restoring-the-Lifeblood-of-Maji-Ndogo/blob/main/4-tables_relationships.PNG)
 
