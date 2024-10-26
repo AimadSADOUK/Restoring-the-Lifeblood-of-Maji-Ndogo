@@ -1,8 +1,6 @@
 # Restoring the Lifeblood of Maji Ndogo
 
-**Author:** Aimad SADOUK  
-**LinkedIn:** @Aimad SADOUK
- 
+**Author:** Aimad SADOUK   
  © ExploreAI Academy
 
 ## Overview
