@@ -22,6 +22,9 @@
   - Window Functions
   - Common Table Expressions (CTEs)
   - Joins and Aggregations
+  - Max/Min/Average
+  - Ranking Functions
+  - Over/Partition By
 - **Data Cleaning and Analysis**
 - **Critical Thinking and Problem-Solving**
 
